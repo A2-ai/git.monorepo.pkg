@@ -1,0 +1,4 @@
+#!/bin/bash
+# Configure script for R package
+
+echo "Configure complete!"
